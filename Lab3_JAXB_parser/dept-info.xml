@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <name>Nestle</name>
+    <country>USA</country>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>MANAGEMENT</deptName>
+            <location>WASHINGTON</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Harry</empName>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Cris</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Mary</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>
